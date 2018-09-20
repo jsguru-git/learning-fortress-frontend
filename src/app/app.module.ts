@@ -24,7 +24,6 @@ import { AuthModule } from './auth/auth.module';
 import { AngularFireModule } from 'angularfire2';
 import { DatabaseModule } from './database/database.module';
 
-
 @NgModule({
   declarations: [
     AppComponent
